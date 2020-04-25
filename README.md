@@ -1,5 +1,5 @@
 # Steam-recommendation-system
-A recommendation systems based on Steam API
+A set of recommendation system models based on Steam API
 
 ##################### Part1 Popularity-based models #########################
 
