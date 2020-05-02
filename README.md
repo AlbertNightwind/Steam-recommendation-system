@@ -5,4 +5,4 @@ A set of recommendation system models based on Steam API
 
 ##################### Part2 Positive_rate-based models ######################
 
-##################### Part3 Content-based models  ###########################
+##################### Part3 Content-based models  ##########################
