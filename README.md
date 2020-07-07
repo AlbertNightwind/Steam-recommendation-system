@@ -7,6 +7,6 @@ A set of recommendation system models based on Steam API
 
 ##################### Part3 Content-based models  #############################
 
-##################### Part4 Collaborative filtering models ######################
+##################### Part4 Collaborative filtering models #######################
 
-##################### Part5 Spark ALS models ##################################
+##################### Part5 Spark ALS models ################################
